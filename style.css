@@ -1,0 +1,320 @@
+.header {
+  position: relative;
+  width: 1100px;
+  height: 293px;
+}
+
+.header .contacts {
+  position: absolute;
+  width: 242px;
+  height: 98px;
+  top: 95px;
+  left: 810px;
+}
+
+.header .text-wrapper {
+  width: 236px;
+  top: 49px;
+  left: 1px;
+  line-height: 24.3px;
+  position: absolute;
+  font-family: "Raleway-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+}
+
+.header .info-sobaka-ge {
+  width: 241px;
+  height: 24px;
+  top: 24px;
+  position: absolute;
+  left: 0;
+}
+
+.header .overlap-group {
+  position: relative;
+  width: 239px;
+  height: 24px;
+}
+
+.header .line {
+  width: 130px;
+  top: 23px;
+  left: 0;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.header .div {
+  width: 239px;
+  top: 0;
+  font-family: "Raleway-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24.3px;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+}
+
+.header .element {
+  position: absolute;
+  width: 241px;
+  height: 24px;
+  top: 0;
+  left: 1px;
+}
+
+.header .img {
+  width: 132px;
+  top: 23px;
+  left: 0;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.header .logo {
+  position: absolute;
+  width: 148px;
+  height: 105px;
+  top: 92px;
+  left: 478px;
+}
+
+.header .menu {
+  position: absolute;
+  width: 393px;
+  height: 22px;
+  top: 133px;
+  left: 50px;
+}
+
+.header .view {
+  width: 131px;
+  left: 262px;
+  position: absolute;
+  height: 22px;
+  top: 0;
+}
+
+.header .line-2 {
+  width: 110px;
+  top: 21px;
+  left: 19px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.header .text-wrapper-2 {
+  top: 0;
+  left: 19px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Raleway-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+}
+
+.header .list-marker {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  top: 9px;
+  left: 0;
+  border-radius: 3px;
+  border: 0.5px solid;
+  border-color: #000000;
+}
+
+.header .view-2 {
+  width: 171px;
+  left: 80px;
+  position: absolute;
+  height: 22px;
+  top: 0;
+}
+
+.header .line-3 {
+  width: 151px;
+  top: 21px;
+  left: 18px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.header .text-wrapper-3 {
+  top: 0;
+  left: 18px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Raleway-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+}
+
+.header .text-wrapper-4 {
+  top: 0;
+  left: 0;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Raleway-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+}
+
+
+.cover {
+  width: 1100px;
+  height: 757px;
+  background-image: url(./img/lotus-flower.png);
+  background-size: 100% 100%;
+}
+
+.cover .overlap {
+  position: relative;
+  height: 757px;
+}
+
+.cover .overlay {
+  position: absolute;
+  width: 1100px;
+  height: 757px;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+  opacity: 0.6;
+}
+
+.cover .description {
+  position: absolute;
+  width: 1002px;
+  height: 51px;
+  top: 656px;
+  left: 50px;
+}
+
+.cover .button {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 258px;
+  height: 51px;
+  top: 0;
+  left: 744px;
+}
+
+.cover .overlap-group {
+  position: relative;
+  width: 256px;
+  height: 51px;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.cover .text-wrapper {
+  width: 193px;
+  top: 11px;
+  left: 30px;
+  font-family: "Raleway-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  color: #ffffff;
+}
+
+.cover .subline {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  font-family: "Raleway-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  line-height: 28px;
+  white-space: nowrap;
+}
+
+.cover .span {
+  letter-spacing: 0;
+}
+
+.cover .text-wrapper-2 {
+  letter-spacing: 4.36px;
+}
+
+.cover .text-wrapper-3 {
+  letter-spacing: 3.87px;
+}
+
+.cover .text-wrapper-4 {
+  letter-spacing: 5.32px;
+}
+
+.cover .title {
+  position: absolute;
+  width: 1006px;
+  height: 385px;
+  top: 165px;
+  left: 50px;
+}
+
+.cover .div {
+  top: 270px;
+  left: 613px;
+  font-family: "Raleway-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 100px;
+  text-align: right;
+  letter-spacing: 30.00px;
+  line-height: 115.0px;
+  white-space: nowrap;
+  position: absolute;
+  color: #ffffff;
+}
+
+.cover .text-wrapper-5 {
+  top: 135px;
+  left: 330px;
+  font-family: "Raleway-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 100px;
+  text-align: center;
+  letter-spacing: 30.00px;
+  line-height: 115.0px;
+  white-space: nowrap;
+  position: absolute;
+  color: #ffffff;
+}
+
+.cover .text-wrapper-6 {
+  top: 0;
+  left: 0;
+  font-family: "Raleway-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 100px;
+  letter-spacing: 30.00px;
+  line-height: 115.0px;
+  white-space: nowrap;
+  position: absolute;
+  color: #ffffff;
+}
